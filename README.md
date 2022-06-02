@@ -9,6 +9,9 @@
 - 🌱 I’m currently learning English (Czech, German,...)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=summerbreeze8&label=Profile%20views&color=0e75b6&style=flat" alt="summerbreeze8" /> </p>
+<br> <br> <br>
+
 ## 📫 How to reach me:
 
 <p align="center">
@@ -29,9 +32,8 @@
 
 
 <img align="right" alt="Cien Dz :))" width="500" src="https://c.tenor.com/Fyhu5etD_84AAAAC/anime-sky.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=summerbreeze8&label=Profile%20views&color=0e75b6&style=flat" alt="summerbreeze8" /> </p>
-<br> <br> <br>
- 
+
+
 
  🚀 Hope today will be better than tomorrow .
  
