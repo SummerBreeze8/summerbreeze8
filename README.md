@@ -44,10 +44,6 @@
 ## 🔮 **My skills**
 <img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="55px" height="55px" >&nbsp;
 <img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="55px" height="55px" >&nbsp;
-## 🎻 **I'm a music addict**
+## 🎻 **I'm a music addict 🦫**
 
-[![Programming Music](https://img.shields.io/badge/Loffi%20Chill-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5eHUErerg4SbhttZgtGvOT?si=744446ba11de46fc)  [![PPOP Music](https://img.shields.io/badge/Mikki%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07) [![PPOP Music](https://img.shields.io/badge/Japan%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07)
-
-
-
-
+https://www.youtube.com/watch?v=RHT8gNLRFtU
