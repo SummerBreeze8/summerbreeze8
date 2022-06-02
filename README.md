@@ -4,6 +4,8 @@
 
 - ✍ I'm a student 
 
+- :) Dreamer 
+
 - 🌱 I’m currently learning English (Czech, German,...)
 
 
@@ -37,8 +39,7 @@
 
 
  
- ## <img src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="35px">&nbsp; Connect with me
- 
+ ## <img src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="35px">&nbsp; Just the way you are  ❤️
 
  
 ## 🔮 **My skills**
@@ -46,4 +47,4 @@
 <img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="55px" height="55px" >&nbsp;
 ## 🎻 **I'm a music addict 🦫**
 
-https://www.youtube.com/watch?v=RHT8gNLRFtU
+<a href="https://www.youtube.com/watch?v=RHT8gNLRFtU">Just The Way You Are - Music Travel Love (Bruno Mars Cover)</a>
