@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cien </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center"> Một người rất thích du lịch và khám phá những điều mới mẻ, thú vị</h3>
+<h3 align="center"> Một người rất thích du lịch và khám phá những điều mới mẻ, thú vị ở ngoài kia</h3>
 
 - ✍ I'm a student 
 
 - 😴 Dreamer 
 
-- 🌱 I’m currently learning C++, Pyhton.../English (Czech, German,Fr. Bla bla...)
+- 🌱 I’m currently learning C++, Pyhton, Java,.../English (Czech, German,Fr. Bla bla...)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=summerbreeze8&label=Profile%20views&color=0e75b6&style=flat" alt="summerbreeze8" /> </p>
-<br> <br> <br>
+- 🍀 My quote: “Just follow your heart and keep smiling” — Kiki's Delivery Service (1989)
 
 ## 📫 How to reach me:
 
@@ -22,18 +20,17 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </p>
 
+<img align="right" alt="Cien" width="80" src="https://c.tenor.com/Fyhu5etD_84AAAAC/anime-sky.gif">
+
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Hello+world!;Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!!;Bonjour!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%84%B8%EA%B3%84!;I'm+Cien;You+can+call+me+CienDzai" alt="animated" />
  </p>
 
-## <h1 align="center"> <img src="https://i.pinimg.com/originals/1d/da/d7/1ddad7f4364ef2f87efc82d7f876d18c.gif" height="90" width="100"> &nbsp;***Clouds itSky~***
+## <h1 align="center"> <img src="https://i.pinimg.com/originals/1d/da/d7/1ddad7f4364ef2f87efc82d7f876d18c.gif" height="90" width="100"> &nbsp;***Clouds itSky~*** 
 
 
-
-<img align="right" alt="Cien Dz :))" width="500" src="https://c.tenor.com/Fyhu5etD_84AAAAC/anime-sky.gif">
-
-  
+ 
   [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=summerbreeze8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/summerbreeze8)
 
 
@@ -45,7 +42,7 @@
 
 
  
- ## <img src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="35px">&nbsp; Just the way you are  ❤️
+ ## <img src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="35px">&nbsp; 
 
  
 ## 🔮 **My skills**
