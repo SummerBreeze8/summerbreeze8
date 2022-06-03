@@ -18,7 +18,7 @@
   <a href="https://www.facebook.com/Rabb017/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="/https://github.com/SummerBreeze8" alt="Github">
+  <a href="/https://www.github.com/SummerBreeze8" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </p>
 
