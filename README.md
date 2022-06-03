@@ -10,6 +10,8 @@
 
 - 🍀 My quote: “Just follow your heart and keep smiling” — Kiki's Delivery Service (1989)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=summerbreeze8&label=Profile%20views&color=0e75b6&style=flat" alt="summerbreeze8" /> </p>
+<br> <br> <br>
 ## 📫 How to reach me:
 
 <p align="center">
